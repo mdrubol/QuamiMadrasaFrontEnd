@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Qawmi Madrasa
 
-This project for Qawmi Madrasa
 
 ## Available Scripts
 
